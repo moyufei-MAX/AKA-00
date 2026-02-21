@@ -1,0 +1,9 @@
+pyserial
+python-periphery
+flask
+torch
+accelerate
+einops
+torchvision
+flask-socketio
+eventlet
